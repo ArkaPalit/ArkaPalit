@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arka Palit</h1>
 <p align="left"> <a href="https://https://twitter.com/arkapllt" target="blank"><img src="https://img.shields.io/twitter/follow/arkapllt?logo=twitter&style=for-the-badge" alt="arkapllt" /></a> </p>
 
-- 🌱 I’m currently learning **Everything 🤣**
+- 🌱 I’m currently learning 
 
 - 📫 How to reach me **arka.palit@yahoo.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
