@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arka Palit</h1>
 <p align="left"> <a href="https://https://twitter.com/arkapllt" target="blank"><img src="https://img.shields.io/twitter/follow/arkapllt?logo=twitter&style=for-the-badge" alt="arkapllt" /></a> </p>
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning React
 
 - 📫 How to reach me **arka.palit@yahoo.com**
 
